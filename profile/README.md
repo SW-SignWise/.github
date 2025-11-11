@@ -1,5 +1,4 @@
-# SignWise - "_Be your own bank._"
-# Web3 is hard. Right? 
+# SignWise - "Watch an Add and get a sponsored transaction"
 
 We make it simple.
 1. Own your assets & be your own bank.
