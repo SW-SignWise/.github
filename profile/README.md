@@ -1,4 +1,4 @@
-# SignWise - "Watch an Add and get a sponsored transaction"
+# SignWise - "Watch an Add and get a sponsored On-Chain transaction"
 
 We make it simple.
 1. Own your assets & be your own bank.
